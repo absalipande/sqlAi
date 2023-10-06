@@ -2,3 +2,4 @@ This is a web application that enables users to convert English language sentenc
 
 
 I followed this tutorial by Alejandro AO on "https://www.youtube.com/@alejandro_ao" and "https://github.com/alejandro-ao/openai-sql-generator"
+I followed this tutorial by (Alejandro AO)[ttps://www.youtube.com/@alejandro_ao] on "https://www.youtube.com/@alejandro_ao" and "https://github.com/alejandro-ao/openai-sql-generator"
